@@ -1,0 +1,104 @@
+/*
+    Author     : Jonatas Lopes
+*/
+
+.perfil img{
+    margin-top: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+section{
+    border: 2px solid #fff;
+    border-radius: 8px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: #f0f0f0;
+}
+
+section#produto h1#txt{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 25px;
+}
+
+section#produto p#txt{
+    width: 50%;
+    text-align: justify;
+    margin-left: 25%;
+}
+
+div#imagem-produto{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#imagem-produto figure.img{
+    width: 30%;
+    height: 31%;
+    margin-left: 35%;
+}
+
+#imagem-produto figcaption h3, #imagem-produto figcaption p{
+    color: #FFF;
+}
+
+div#comentario{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #FFF;
+    border-radius: 18px;
+    background-color: #FFF;
+    width: 100%;
+}
+
+div#comentario p#coment{
+    width: 70%;    
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+}
+
+div#comentario figure{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div#comentar input#enviar{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    display: inline;
+    vertical-align: top;
+}
+
+div#comentar textarea{
+    resize: none;
+    width: 60%;
+    height: 100px;
+    border: 1px solid #6B238E;
+    border-radius: 6px;
+    margin-top: 25px;
+    margin-left: 20%;
+    display: inline;
+}
+
+div#lscomentarios{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+div#lscomentarios h2{
+    margin-top: 10px;
+}
+
+p#notcoment{
+    display: none;
+    color: red;
+    margin-left: 20%;
+}
