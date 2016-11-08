@@ -1,5 +1,3 @@
-O sistema atende à todos os requisitos, sejam eles obrigatórios ou desejáveis.
-
 Para poder acessar o sistema como administrador é necessário logar com
 e-mail: admin@sistema.com
 senha: 123456
